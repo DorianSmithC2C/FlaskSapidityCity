@@ -1,0 +1,59 @@
+body
+    {
+        background-color: lightgray;
+    }
+ul
+    {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 25%;
+        background-color: white;
+        position: fixed;
+    }
+li a
+    {
+        color: black;
+        text-align: center;
+        display: block;
+        padding: 15px;
+    }
+
+li a:hover
+    {
+        background-color: #F7783C;
+        color: white;
+    }
+li a.active
+    {
+        background-color: gray;
+        color: white;
+    }
+p
+    {
+        font-size: 35px;
+    }
+iframe
+    {
+        width: 100%;
+        height: 100%;
+
+    }
+h1
+    {
+        font-size: 50px;
+        text-align: center;
+    }
+h2
+    {
+        text-align: center;
+    }
+#bar
+    {
+        background: white;
+        margin: 0%;
+        padding: 0;
+        width: 25%;
+        background-color: white;
+        position: fixed;
+    }
